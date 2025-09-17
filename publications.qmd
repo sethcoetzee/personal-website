@@ -3,6 +3,23 @@ title: "Publications"
 editor: source
 ---
 
-## Academic Papers
+Publications are listed in reverse chronological order. Please contact me for an e-copy of anything listed below if there is no option for post-print or open access.
 
-Coming soon ...
+## Peer-Reviewed Articles
+
+*Coming soon - currently developing research for publication*
+
+## Conference Presentations
+
+- Coetzee, S., Crane, M. F., & Richardson, M. J. (2025). *Modelling resilience in teams: A theoretical framework grounded in nonlinear dynamics*. Poster presented at the 22nd Congress of the European Association of Work and Organizational Psychology, Prague, Czech Republic.
+- Coetzee, S., Crane, M. F., & Richardson, M. J. (2025). *Connecting through communication: Extrinsic emotion regulation as a driver of team resilience*. Oral presentation at the 22nd Congress of the European Association of Work and Organizational Psychology, Prague, Czech Republic.
+- Coetzee, S., Batia, J., Bucknell, K., & Crane, M. F. (2024). *Harnessing team reflections for resilient outcomes: Insights from Dynamical Systems Theory*. Symposium presented at the Australian Psychological Society College of Organisational Psychologists Conference, Perth, Australia.
+- Coetzee, S. (2024). *A dynamical view of team resilience*. Oral presentation at the Macquarie University Resilient Symposium, Sydney, Australia.
+
+## Theses
+
+- Coetzee, S., (2021). *Stress Mindset, Stress Appraisals, and Work Outcomes: A Multilevel Diary Study* [Honours thesis, Macquarie University].
+
+---
+
+*This page will be updated as new publications become available. For the most current information about my research or to discuss opportunities for collaboration, please see my [LinkedIn profile](https://linkedin.com/in/sethcoetzee) or contact me directly via [email](mailto:seth.coetzee@mq.edu.au).*
