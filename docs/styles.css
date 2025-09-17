@@ -1,1 +1,7 @@
 /* css styles */
+
+/* Reduce banner spacing */
+.title-block-banner {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}

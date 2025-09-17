@@ -1,11 +1,60 @@
 ---
 title: "Seth Coetzee"
+subtitle: "PhD/Masters Candidate in Organisational Psychology"
+page-layout: full
+title-block-banner: true
 editor: source
 ---
 
-This website is currently a work in progress ... please be patient!
+::: {.grid}
 
-It has been made using Quarto and GitHub Pages. 
+::: {.g-col-8}
+
+## Welcome
+
+Welcome to my academic website. I'm passionate about understanding **what makes teams resilient** when they face pressure and adversity. 
+
+Through my research and teaching, I explore the complex dynamics that help some teams thrive while others struggle - and how organizations can build more resilient, effective teams.
+
+## What You'll Find Here
+
+🔬 **[Research & Publications](publications.qmd)** - My latest conference presentations and academic work on team resilience and organizational psychology
+
+👨‍🎓 **[About Me](about.qmd)** - My background, research interests, and experience in academia and industry
+
+✍️ **[Blog](blog.qmd)** - Thoughts on research, teaching, and developments in organizational psychology
+
+---
+
+*Interested in collaboration or have questions about my work? I'd love to hear from you.*
+
+[Get in touch →](mailto:seth.coetzee@mq.edu.au){.btn .btn-primary}
+
+:::
+
+::: {.g-col-4}
+
+## Quick Links
+
+📧 **Contact:** [seth.coetzee@mq.edu.au](mailto:seth.coetzee@mq.edu.au)
+
+🎓 **Affiliation:** [Macquarie University](https://www.mq.edu.au/)
+
+📄 **Publications:** [View my work →](publications.qmd)
+
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/sethcoetzee)
+
+---
+
+:::
+
+:::
+
+---
+
+*This site showcases my research in organizational psychology and team dynamics. Feel free to explore my [publications](publications.qmd), learn more [about my background](about.qmd), or read my thoughts on [research and practice](blog.qmd).*
+
+This website is currently a work in progress ... please be patient! It has been made using Quarto and GitHub Pages. 
  
  - To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
  - To learn more about GitHub Pages visit <https://docs.github.com/en/pages>.
