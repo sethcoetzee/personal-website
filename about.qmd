@@ -1,9 +1,33 @@
 ---
-title: "About"
+title: "About Me"
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/sethcoetzee 
+    - icon: github
+      text: Github
+      href: https://github.com/sethcoetzee
+    - icon: envelope
+      text: Email
+      href: mailto:seth.coetzee@mq.edu.au
+
+editor: source
 ---
 
-About this site
+## Welcome
 
-```{r}
-1 + 1
-```
+I am a PhD/Masters candidate in Organisational Psychology at Macquarie University, where I also work as a Sessional Academic. My research aims to understand why some teams thrive when under pressure, and others struggle to survive. In doing so, I specifically investigate team member interpersonal emotion regulation behaviour; perceptions of team identification, psychological safety, and trust; and test resilience-enhanced debriefing protocols. 
+
+## Research Interests
+
+- Team resilience and systemic interventions
+- Organizational wellbeing and stress management
+- Psychometric assessment and ethical testing practices
+- Complex adaptive systems in organizational contexts
+
+## Educational Background
+
+- Combined PhD/Masters of Organisational Psychology at [Macquarie University](https://www.mq.edu.au/) (2022 to Present)
+- Bachelor of Psychology (Honours) & Bachelor of Commerce (Marketing Management Major) at [Macquarie University](https://www.mq.edu.au/) (2016 to 2021)

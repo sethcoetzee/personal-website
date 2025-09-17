@@ -17,11 +17,12 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: flatly
     css: styles.css
     toc: true
+    toc-location: right
+    smooth-scroll: true
+    code-fold: true
+    date-format: "DD-MM-YYYY"
 
 editor: visual
-

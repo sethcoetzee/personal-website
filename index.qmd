@@ -1,11 +1,11 @@
 ---
-title: "personal-website"
+title: "Seth Coetzee"
+editor: source
 ---
 
-This is a Quarto website.
+This website is currently a work in progress ... please be patient!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+It has been made using Quarto and GitHub Pages. 
+ 
+ - To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+ - To learn more about GitHub Pages visit <https://docs.github.com/en/pages>.

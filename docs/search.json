@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Coming soon …"
-  },
-  {
-    "objectID": "publications.html#academic-papers",
-    "href": "publications.html#academic-papers",
-    "title": "Publications",
-    "section": "",
-    "text": "Coming soon …"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
@@ -23,15 +9,57 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am a PhD/Masters candidate in Organisational Psychology at Macquarie University, where I also work as a Sessional Academic. My research aims to understand why some teams thrive when under pressure, and others struggle to survive. In doing so, I specifically investigate team member interpersonal emotion regulation behaviour; perceptions of team identification, psychological safety, and trust; and test resilience-enhanced debriefing protocols."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Seth Coetzee",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nCode\n1 + 1\n\n\n[1] 2"
+    "text": "This website is currently a work in progress … please be patient!\nIt has been made using Quarto and GitHub Pages.\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nTo learn more about GitHub Pages visit https://docs.github.com/en/pages."
+  },
+  {
+    "objectID": "about.html#welcome",
+    "href": "about.html#welcome",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a PhD/Masters candidate in Organisational Psychology at Macquarie University, where I also work as a Sessional Academic. My research aims to understand why some teams thrive when under pressure, and others struggle to survive. In doing so, I specifically investigate team member interpersonal emotion regulation behaviour; perceptions of team identification, psychological safety, and trust; and test resilience-enhanced debriefing protocols."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nTeam resilience and systemic interventions\nOrganizational wellbeing and stress management\nPsychometric assessment and ethical testing practices\nComplex adaptive systems in organizational contexts"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nCombined PhD/Masters of Organisational Psychology at Macquarie University (2022 to Present)\nBachelor of Psychology (Honours) & Bachelor of Commerce (Marketing Management Major) at Macquarie University (2016 to 2021)"
+  },
+  {
+    "objectID": "about.html#current-position",
+    "href": "about.html#current-position",
+    "title": "About Me",
+    "section": "Current Position",
+    "text": "Current Position\n[Your current role and institution]"
+  },
+  {
+    "objectID": "about.html#recent-work",
+    "href": "about.html#recent-work",
+    "title": "About Me",
+    "section": "Recent Work",
+    "text": "Recent Work\nBrief description of your current research or projects."
+  },
+  {
+    "objectID": "about.html#educational-background",
+    "href": "about.html#educational-background",
+    "title": "About Me",
+    "section": "Educational Background",
+    "text": "Educational Background\n\nCombined PhD/Masters of Organisational Psychology at Macquarie University (2022 to Present)\nBachelor of Psychology (Honours) & Bachelor of Commerce (Marketing Management Major) at Macquarie University (2016 to 2021)"
   }
 ]
